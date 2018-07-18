@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "iOS APP启动速度优化"
+title:      "客户端启动速度优化"
 subtitle:   "简析 iOS 客户端启动速度优化"
 date:       2018-07-17
 author:     "Simplex"
