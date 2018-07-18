@@ -1,15 +1,12 @@
 ---
 layout:     post
-title:      "客户端启动速度优化"
-subtitle:   "简析 iOS 客户端启动速度优化"
+title:      "iOS 客户端启动速度优化"
+subtitle:   ""
 date:       2018-07-17
 author:     "Simplex"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - iOS
-    - 优化
-    - 研究
-    - 启动速度
 ---
 
 > 天下武功，唯快不破
